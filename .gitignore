@@ -1,0 +1,10 @@
+﻿#############
+## Idea
+#############
+target/
+.repository/
+
+/lib/
+/out/
+/out.log
+/out.log.*
